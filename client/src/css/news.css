@@ -1,0 +1,12 @@
+.news{
+    text-align: center;
+    display: flex;
+    }
+.new{
+    box-shadow: #696969 0px 1px 10px 5px;
+    width: 245px;
+    height: 300px;
+    margin: 50px auto;
+    padding: 15px;
+    border-radius: 20px;
+    }
