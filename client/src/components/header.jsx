@@ -1,4 +1,3 @@
-import "../css/main.css"
 function Header(){
     return(
         <div className="header">
